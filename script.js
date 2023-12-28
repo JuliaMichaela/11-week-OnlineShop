@@ -1,5 +1,5 @@
 const priceJacket = document.querySelector('#priceJacket')
-console.log (priceJacket.textContent)
+console.log (priceJacket.textContent);
 
 const priceSneakers = document.querySelector('#priceSneakers');
 const priceJeans = document.querySelector('#priceJeans');
@@ -8,7 +8,8 @@ console.log (priceSneakers.textContent)
 console.log (priceJeans.textContent )
 console.log (priceBent.textContent)
 
-const result = +priceJeans + +priceSneakers + +priceJeans + +priceBent
+const result = +priceJeans + +priceSneakers + +priceJeans + +priceBent;
 
 
-console.log (result)
+console.log (result);
+
