@@ -32,3 +32,10 @@ img {
 .price{
     color: blue;
 }
+
+.btn-20{
+    width: 300px;
+    height: 50px;
+    color: white;
+    background-color:yellow;
+}
