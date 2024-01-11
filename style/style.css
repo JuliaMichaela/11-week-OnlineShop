@@ -39,3 +39,9 @@ img {
     color: white;
     background-color:yellow;
 }
+.btn-50{
+    width: 500px;
+    height: 100px;
+    color: white;
+    background-color:rgb(255, 0, 4);
+}
