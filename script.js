@@ -10,6 +10,5 @@ console.log (priceBent.textContent)
 
 const result = +priceJeans + +priceSneakers + +priceJeans + +priceBent;
 
-
 console.log (result);
 
