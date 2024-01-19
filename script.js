@@ -8,9 +8,6 @@ console.log (priceSneakers.textContent)
 console.log (priceJeans.textContent )
 console.log (priceBent.textContent)
 
-console.log (priceSneakers.textContent)
-console.log (priceJeans.textContent )
-console.log (priceBent.textContent)
 
 const result = +priceJeans + +priceSneakers + +priceJeans + +priceBent;
 
