@@ -4,9 +4,9 @@ console.log (priceJacket.textContent);
 const priceSneakers = document.querySelector('#priceSneakers');
 const priceJeans = document.querySelector('#priceJeans');
 const priceBent = document.querySelector('#priceBent');
-console.log (priceSneakers.textContent)
-console.log (priceJeans.textContent )
-console.log (priceBent.textContent)
+console.log (priceSneakers.textContent);
+console.log (priceJeans.textContent);
+console.log (priceBent.textContent);
 
 
 const result = +priceJeans + +priceSneakers + +priceJeans + +priceBent;
