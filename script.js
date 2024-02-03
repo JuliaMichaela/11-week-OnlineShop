@@ -9,6 +9,6 @@ console.log (priceJeans.textContent);
 console.log (priceBent.textContent);
 
 
-const result = +priceJeans + +priceSneakers + +priceJeans + +priceBent;
+const result = Number(priceJacket.textContent)+Number(priceSneakers.textContent)+ Number(priceJeans.textContent) + Number(priceBent.textContent);
 
 console.log (result);
