@@ -13,7 +13,4 @@ const result = Number(priceJacket.textContent)+Number(priceSneakers.textContent)
 
 console.log (result);
 
-console.log (priceSneakers.textContent);
-console.log (priceJeans.textContent);
-console.log (priceBent.textContent);
 
